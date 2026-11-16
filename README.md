@@ -35,6 +35,24 @@ These days I'm deep into AI engineering: bringing LLMs into real products and wr
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
+### stats
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg"/>
+  <img src="./profile/stats-light.svg" alt="GitHub stats" height="180"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AFR0D1T&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e"/>
+  <img src="https://streak-stats.demolab.com?user=AFR0D1T&background=ffffff&border=d0d7de&stroke=d0d7de&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=24292f&dates=57606a" alt="streak" height="180"/>
+</picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AFR0D1T&bg_color=0d1117&color=c9d1d9&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=8b949e&hide_border=true&custom_title=contributions"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AFR0D1T&bg_color=ffffff&color=24292f&title_color=000000&line=000000&point=000000&area=true&area_color=57606a&hide_border=true&custom_title=contributions" alt="contribution graph" width="100%"/>
+</picture>
+
 ### activity
 
 <picture>
