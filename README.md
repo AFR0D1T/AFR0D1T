@@ -1,14 +1,8 @@
-<h2>hey, i'm AFRODIT</h2>
+<h2>Hi, I'm AFRODIT</h2>
 
-**Backend engineer.** I build APIs by day and wire LLMs into them by night.
+I build web applications end to end — from the first API endpoint to the database, deployment and everything that keeps it alive in production.
 
-```python
-class AFRODIT:
-    role   = "Backend Engineer"
-    focus  = ["APIs", "LLM integrations", "MCP servers"]
-    stack  = ["Python", "FastAPI", "Django", "PostgreSQL", "Docker"]
-    status = "prod is down. again."
-```
+These days I'm deep into AI engineering: bringing LLMs into real products and writing MCP servers that let models work with actual tools and data, not just chat.
 
 ### what i do
 
