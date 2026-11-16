@@ -1,4 +1,4 @@
-<h2>Hi! ✌️</h2>
+<h1>Hi ✌️</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FFFFFF&vCenter=true&width=520&height=40&lines=Building+web+apps+end+to+end;APIs+·+databases+·+deployment;LLM+integrations+%26+MCP+servers;Prod+is+down.+Again."/>
