@@ -49,8 +49,9 @@ These days I'm deep into AI engineering: bringing LLMs into real products and wr
 
 ### reach me
 
+<a href="https://afrodit-dev.afrodit.workers.dev/?lang=en"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Website"/></a>
 <a href="https://t.me/Bogdan_8119"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:bpavlenko.pr@gmail.com?subject=Hello%20from%20GitHub"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bpavlenko.pr@gmail.com&su=Hello%20from%20GitHub"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 Open to collaborations — if you're building something interesting, ping me.
 
