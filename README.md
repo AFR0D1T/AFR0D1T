@@ -50,7 +50,7 @@ These days I'm deep into AI engineering: bringing LLMs into real products and wr
 ### reach me
 
 <a href="https://t.me/Bogdan_8119"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:bpavlenko.pr@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:bpavlenko.pr@gmail.com?subject=Hello%20from%20GitHub"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 Open to collaborations — if you're building something interesting, ping me.
 
