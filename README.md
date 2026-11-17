@@ -1,10 +1,5 @@
 <h1>Hi ✌️</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FFFFFF&vCenter=true&width=520&height=40&lines=Building+web+apps+end+to+end;APIs+·+databases+·+deployment;LLM+integrations+%26+MCP+servers;Prod+is+down.+Again."/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=000000&vCenter=true&width=520&height=40&lines=Building+web+apps+end+to+end;APIs+·+databases+·+deployment;LLM+integrations+%26+MCP+servers;Prod+is+down.+Again." alt="Building web apps end to end"/>
-</picture>
-
 I build web applications end to end — from the first API endpoint to the database, deployment and everything that keeps it alive in production.
 
 These days I'm deep into AI engineering: bringing LLMs into real products and writing MCP servers that let models work with actual tools and data, not just chat.
